@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ﻿Log file open, 03/29/22 01:32:47
+=======
+﻿Log file open, 03/28/22 23:13:56
+>>>>>>> Stashed changes
 =======
 ﻿Log file open, 03/28/22 23:13:56
 >>>>>>> Stashed changes
@@ -15,7 +19,11 @@ LogInit: Display: Running engine for game: Abscond_Runner
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogStats: Stats thread started at 0.211541
+=======
+LogStats: Stats thread started at 0.370466
+>>>>>>> Stashed changes
 =======
 LogStats: Stats thread started at 0.370466
 >>>>>>> Stashed changes
@@ -24,6 +32,7 @@ LogInit: Display: Loading text-based GConfig....
 LogPluginManager: Mounting plugin MeshPainting
 LogPluginManager: Mounting plugin XGEController
 LogPluginManager: Mounting plugin Paper2D
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogPluginManager: Mounting plugin LightPropagationVolume
 LogPluginManager: Mounting plugin EnvironmentQueryEditor
@@ -34,6 +43,11 @@ LogPluginManager: Mounting plugin CameraShakePreviewer
 LogPluginManager: Mounting plugin EnvironmentQueryEditor
 LogPluginManager: Mounting plugin AISupport
 LogPluginManager: Mounting plugin LiveLink
+=======
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LiveLink
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin LightPropagationVolume
 LogPluginManager: Mounting plugin AssetManagerEditor
 LogPluginManager: Mounting plugin CryptoKeys
@@ -47,6 +61,7 @@ LogPluginManager: Mounting plugin MaterialAnalyzer
 LogPluginManager: Mounting plugin MobileLauncherProfileWizard
 LogPluginManager: Mounting plugin SpeedTreeImporter
 LogPluginManager: Mounting plugin PluginBrowser
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin AnimationSharing
 LogPluginManager: Mounting plugin AlembicImporter
@@ -89,6 +104,11 @@ LogPluginManager: Mounting plugin SkeletalReduction
 LogPluginManager: Mounting plugin GameplayCameras
 LogPluginManager: Mounting plugin OodleNetwork
 =======
+=======
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin GitSourceControl
 LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
 LogPluginManager: Mounting plugin NullSourceCodeAccess
@@ -108,6 +128,9 @@ LogPluginManager: Mounting plugin DatasmithContent
 LogPluginManager: Mounting plugin OodleData
 LogPluginManager: Mounting plugin OodleNetwork
 LogPluginManager: Mounting plugin VariantManagerContent
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin LuminPlatformFeatures
 LogPluginManager: Mounting plugin MagicLeap
@@ -117,9 +140,12 @@ LogPluginManager: Mounting plugin MagicLeapPassableWorld
 LogPluginManager: Mounting plugin MotoSynth
 LogPluginManager: Mounting plugin MLSDK
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin TcpMessaging
 LogPluginManager: Mounting plugin UdpMessaging
 =======
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin AvfMedia
 LogPluginManager: Mounting plugin AndroidMedia
 LogPluginManager: Mounting plugin ImgMedia
@@ -153,6 +179,9 @@ LogPluginManager: Mounting plugin PlatformCrypto
 LogPluginManager: Mounting plugin TemplateSequence
 LogPluginManager: Mounting plugin PythonScriptPlugin
 LogPluginManager: Mounting plugin SkeletalReduction
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin OnlineSubsystem
 LogPluginManager: Mounting plugin OnlineSubsystemNull
@@ -161,12 +190,19 @@ LogPluginManager: Mounting plugin ActorLayerUtilities
 LogPluginManager: Mounting plugin AndroidMoviePlayer
 LogPluginManager: Mounting plugin AppleImageUtils
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
 LogPluginManager: Mounting plugin AppleMoviePlayer
 LogPluginManager: Mounting plugin ArchVisCharacter
 LogPluginManager: Mounting plugin ScreenshotTools
 LogPluginManager: Mounting plugin AssetTags
 LogPluginManager: Mounting plugin AndroidPermission
+=======
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+>>>>>>> Stashed changes
 =======
 LogPluginManager: Mounting plugin LauncherChunkInstaller
 LogPluginManager: Mounting plugin AppleMoviePlayer
@@ -204,6 +240,7 @@ LogPluginManager: Mounting plugin AvfMedia
 LogPluginManager: Mounting plugin UObjectPlugin
 LogPluginManager: Mounting plugin MobilePatchingUtils
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin ImgMedia
 LogPluginManager: Mounting plugin MediaCompositing
 LogPluginManager: Mounting plugin WebMMedia
@@ -227,6 +264,12 @@ LogPluginManager: Mounting plugin TemplateSequence
 LogPluginManager: Mounting plugin PropertyAccessEditor
 LogPluginManager: Mounting plugin ProceduralMeshComponent
 =======
+=======
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin PhysXVehicles
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin PropertyAccessEditor
 LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin PostSplashScreen
@@ -339,6 +382,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 [2022.03.29-05.32.48:365][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2022.03.29-05.32.48:365][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
@@ -2285,6 +2329,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.29-06.09.53:250][173]LogExit: Exiting.
 [2022.03.29-06.09.53:261][173]Log file closed, 03/29/22 02:09:53
 =======
+=======
+>>>>>>> Stashed changes
 [2022.03.29-03.13.57:494][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2022.03.29-03.13.57:494][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2022.03.29-03.13.57:494][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/jabar/Documents/UnrealEngineGame/Abscond_Runner/Saved/Config/Windows/Engine.ini]
@@ -4342,4 +4388,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.29-06.21.51:345][ 38]LogD3D11RHI: CleanupD3DDevice
 [2022.03.29-06.21.51:363][ 38]LogExit: Exiting.
 [2022.03.29-06.21.51:396][ 38]Log file closed, 03/29/22 02:21:51
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
